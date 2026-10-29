@@ -6,7 +6,7 @@ description: >-
   "should I read this", "triage my inbox"). Scores claim, design, relevance and
   payoff 0–2 from title + abstract, gives a verdict (deep-read / methods-only /
   skim-later / skip) with confidence, and writes a handoff for
-  methods-decomposer. No setup needed. Concepts to learn go to pop-explainer (separate skill).
+  methods-decomposer. No setup needed.
   Never searches databases, invents findings or writes peer reviews.
 ---
 
@@ -250,9 +250,8 @@ fires (off-topic before weak design).
 - `skim-later` → one reopen trigger ("reopen if you need an example of
   staggered DID", or tied to the reader's goal when stated), then stop.
 - `skip` → stop. No free summary unless asked.
-- A concept in the abstract the user doesn't know → suggest
-  `pop-explainer` (a separate skill, github.com/liuxiaoyuu/pop-explainer) for
-  that concept; don't teach it here.
+- A concept in the abstract the user doesn't know → explain it in a sentence
+  or two if asked; don't turn the triage into a tutorial.
 
 ## Hard bans
 

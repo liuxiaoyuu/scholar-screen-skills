@@ -7,8 +7,7 @@ description: >-
   paper from paper-triage. Signature move: an identification map with an
   estimand ↔ estimator alignment check, then each formula in three layers and
   design-specific checks (DID, IV, RDD, synthetic control, text/ML, networks,
-  panel FE). Quick or full depth. Never invents an equation. Concepts to learn
-  go to pop-explainer (separate skill).
+  panel FE). Quick or full depth. Never invents an equation.
 ---
 
 # Methods decomposer
@@ -232,9 +231,7 @@ the weaker one unless the design supports the stronger.
 ## Hand-offs
 
 - The user signals they don't understand a concept (LATE, parallel trends …)
-  → suggest `pop-explainer` (a separate skill, github.com/liuxiaoyuu/pop-explainer)
-  for an intuitive story; don't turn this note into
-  a tutorial, and don't add the pointer unprompted.
+  → give a short plain-language gloss; don't turn this note into a tutorial.
 - The user wants to know whether a paper is worth decomposing at all → that's
   `paper-triage`.
 
