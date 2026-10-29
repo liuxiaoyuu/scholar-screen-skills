@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these skills in your work, please cite them as below."
+title: "Scholar Screen Skills: paper-triage and methods-decomposer"
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Xiaoyu"
+version: 1.0.0
+date-released: "2026-10-30"
+license: MIT
+repository-code: "https://github.com/liuxiaoyuu/scholar-screen-skills"
+keywords:
+  - agent skills
+  - social science
+  - causal inference
+  - research methods
+  - literature screening
